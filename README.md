@@ -30,3 +30,7 @@
 This project is a
 good example of how to deal with different modules of different complexity and different
 types of character
+
+
+Презентація: https://www.canva.com/design/DAF35K2Kzx4/sxBovUlUBUw-b4BA96bX_g/edit
+Overleaf: https://www.overleaf.com/read/bkhvwcfjgfkh#6f54af
